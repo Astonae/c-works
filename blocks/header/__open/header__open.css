@@ -1,0 +1,14 @@
+.header__open {
+  max-width: 99px;
+  border-radius: 4px;
+  background-color: #25E197;
+  padding: 4px 8px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #000;
+  margin: 0;
+  text-decoration: none;
+  height: 100%;
+}
