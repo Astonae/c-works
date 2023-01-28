@@ -1,0 +1,7 @@
+.header__form {
+  padding-top: 230px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}

@@ -8,3 +8,9 @@
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__open/header__open.css);
+@import url(../blocks/header/__heading/header__heading.css);
+@import url(../blocks/header/__heading/header__heading_h1.css);
+@import url(../blocks/header/__heading/header__heading_indent.css);
+@import url(../blocks/header/__form/header__form.css);
+@import url(../blocks/header/__form-email/header__form-email.css);
+@import url(../blocks/header/__button/header__button.css);

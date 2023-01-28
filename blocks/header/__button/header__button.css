@@ -1,0 +1,19 @@
+.header__button {
+  background-color: #47474C;
+  border-radius: 0px 8px 8px 0px;
+  min-width: 221px;
+  height: 50px;
+  color: #FFF;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.375px;
+  padding: 0;
+  border: 0;
+  background-image: url(./../../../images/peace.svg);
+  background-repeat: no-repeat;
+  background-position: 205px;
+  cursor: pointer;
+}
